@@ -93,6 +93,3 @@ The analysis provides actionable rules, such as:
 * **"Fade the Hype":** Shorting during "Extreme Greed" showed higher win rates in historical tests.
 * **"Panic Liquidity":** High-volume scalping opportunities identified during "Extreme Fear" days.
 
-```
-
-```
